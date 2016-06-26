@@ -1,22 +1,13 @@
-# Practica del Modulo de Desarrollo Web Seguro.
+#Diplomado de Seguridad Informática
 
-## Instrucciones
+Tarea del Modulo 9: Seguridad en el Desarrollo de Aplicaciones Web
 
-Para poder ejecutar el proyecto es necesario tener instalado en el equipo de computo lo siguiente:
+- Generar una aplicación demo donde se apliquen los aspectos de: 
 
-1. Apache Maven
-2. Netbeans IDE 8.1
-3. JDK 1.8
+a. Mecanismos de autenticación
 
-Para poder correr el servidor solo se requiere el siguiente comando:
+b. Control de accesos
 
-`mvn exec:java -Dexec.mainClass="mx.uach.practicaseguridad.*"`
+c. Registro de actividad
 
-Donde:
-
-mvn: Es el comando para ejecutar Maven.
-exec:java -Dexec.mainClass: Especifica la clase que contiene el main en el proyecto.
-
-Ejemplo:
-
-`mvn exec:java -Dexec.mainClass="mx.uach.practicaseguridad.Login"`
+- Subir a GitHub su proyecto.
